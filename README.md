@@ -20,6 +20,3 @@ Java приложение с графическим интерфейсом дл�
 javac PortScannerGUI.java
 java PortScannerGUI
 ```
-
-## Лицензия
-MIT
